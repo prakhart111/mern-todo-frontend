@@ -1,6 +1,23 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Frontend Deployed at : https://prakhar-mern-todo.netlify.app/
+- Backend Deployed at : https://prakhar-todo-mern.herokuapp.com/
+- Frontend code Repository : https://github.com/prakhart111/mern-todo-frontend
+- Backend code Repository : https://github.com/prakhart111/mern-todo-backend
+
+### MERN Stack application
+**Product Features:**
+
+- ToDos listing page with their completion status
+- Users can mark any task as completed or incomplete
+- Users can delete any task from the list
+- Users can add tasks to the list
+
+**Bonus Features:**
+
+- Allow filtering tasks by “completed or incomplete”
+- Having your own backend server ( NodeJS will be preferred)
+
 
 ## Available Scripts
 
