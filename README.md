@@ -1,11 +1,11 @@
-# Getting Started with Create React App
+# MERN Stack To-do application
 
 - Frontend Deployed at : https://prakhar-mern-todo.netlify.app/
 - Backend Deployed at : https://prakhar-todo-mern.herokuapp.com/
 - Frontend code Repository : https://github.com/prakhart111/mern-todo-frontend
 - Backend code Repository : https://github.com/prakhart111/mern-todo-backend
 
-### MERN Stack application
+
 **Product Features:**
 
 - ToDos listing page with their completion status
